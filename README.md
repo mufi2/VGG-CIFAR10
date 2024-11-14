@@ -1,6 +1,8 @@
 # VGG-CIFAR10
 # CIFAR-10 Image Classifier
 
+![1_CIFAR-10   VGG16 for Image Detection](https://github.com/user-attachments/assets/e2711c61-9221-4dfa-b474-ae3e7ff8d3f6)
+
 This project is a web application that classifies images into one of the CIFAR-10 classes. The app is built with [Streamlit](https://streamlit.io/) and uses a pre-trained VGG-16 model for CIFAR-10 classification.
 
 ## Project Structure
@@ -11,6 +13,7 @@ This project is a web application that classifies images into one of the CIFAR-1
 ## Model Architecture
 
 The VGG-16 model architecture is defined in the `VGG_net` class. The architecture includes convolutional layers, followed by fully connected layers, with ReLU activations and dropout for regularization.
+![image](https://github.com/user-attachments/assets/95533ec3-09d8-4ef0-b892-90238aa31466)
 
 ## Installation
 
