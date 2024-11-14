@@ -76,7 +76,7 @@ def predict_image(image):
 
 # Streamlit app code
 st.title("CIFAR-10 Image Classifier")
-st.write("Upload an image, and the model will predict its class from CIFAR-10 categories.")
+st.write("Upload an image from CIFAR-10, and the model will predict its class categories.")
 
 # File uploader
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
