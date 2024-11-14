@@ -94,7 +94,7 @@ The model classifies images into the following classes:
 ## Acknowledgments
 
 - The CIFAR-10 dataset: [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-- [Streamlit](https://streamlit.io/) for the interactive web app.
+- [Streamlit](https://vgg-cifar10-q3gm3daeriaha9rztetykm.streamlit.app/) for the interactive web app.
 - VGG-16 architecture as a base for model training.
 
 ## License
