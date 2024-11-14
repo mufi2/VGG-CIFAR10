@@ -103,9 +103,11 @@ Upload an image, and the model will instantly classify with high precision.
 
 ## Acknowledgments
 
+- VGG paper: [VGG Paper](https://arxiv.org/abs/1409.1556)
 - The CIFAR-10 dataset: [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 - [Streamlit](https://vgg-cifar10-q3gm3daeriaha9rztetykm.streamlit.app/) for the interactive web app.
 - VGG-16 architecture as a base for model training.
+  
 
 ## License
 
