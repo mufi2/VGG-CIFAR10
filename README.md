@@ -84,6 +84,8 @@ Training Accuracy: 0.9655, Precision: 0.9663, F1 Score: 0.9654
 Testing Accuracy: 0.8439, Precision: 0.8464, F1 Score: 0.8431
 ### Loss vs Epoch
 ![image](https://github.com/user-attachments/assets/dbf148c5-69f3-4a44-ba3a-4fa944f50c20)
+### Confusion Matrix
+![image](https://github.com/user-attachments/assets/359ef637-334d-4282-9302-93e8892f0f9a)
 
 ## Acknowledgments
 
