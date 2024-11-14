@@ -34,7 +34,7 @@ The VGG-16 model architecture is defined in the `VGG_net` class. The architectur
 
 ## Example Output
 
-![Example](example-output.png)
+![image](https://github.com/user-attachments/assets/fbb1adff-63a9-42d6-8b0e-60bc125a6c0f)
 
 ## CIFAR-10 Classes
 
