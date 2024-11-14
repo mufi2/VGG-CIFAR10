@@ -91,6 +91,16 @@ The model classifies images into the following classes:
 ### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/359ef637-334d-4282-9302-93e8892f0f9a)
 
+##  Streamlit Web Application
+An interactive [Streamlit web application](https://vgg-cifar10-q3gm3daeriaha9rztetykm.streamlit.app/) enables users to upload images of Objects and get predictions in real time.
+
+### 💻 App Interface
+The app features a sleek and intuitive interface:
+![image](https://github.com/user-attachments/assets/dff9ff65-d920-4f9d-9cf1-791f2ffec7d8)
+
+Upload an image, and the model will instantly classify with high precision.
+
+
 ## Acknowledgments
 
 - The CIFAR-10 dataset: [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
